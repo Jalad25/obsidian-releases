@@ -16287,5 +16287,12 @@
     "author": "bnchiang96",
     "description": "Import Xiaohongshu (小红书) notes with media and categorization.",
     "repo": "bnchiang96/xiaohongshu-importer"
-}
+},
+    {
+        "id": "vertical-timeline-list",
+	"name": "Vertical Timeline List",
+	"author": "Jalad",
+	"description": "Utilizes lists to create a timeline... or something resembling a timeline.",
+	"repo": "Jalad25/vertical-timeline-list-plugin"
+    }
 ]
